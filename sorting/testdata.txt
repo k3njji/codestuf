@@ -1,0 +1,10 @@
+Denver is -4.00C
+Vancouver is -1.00C
+New York is 37.40F
+London is 9.00C
+Tokyo is 9.00C
+New Delhi is 11.00C
+Taipei is 64.40F
+Santiago is 69.80F
+Singapore is 27.00C
+Jakarta is 28.00C
